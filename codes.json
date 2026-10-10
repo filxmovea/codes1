@@ -6,7 +6,7 @@
       "expiry": 0,
       "durationDays": 30,
       "maxDevices": 1,
-      "features": "all"
+      "features": "1003"
     }
   }
 }
