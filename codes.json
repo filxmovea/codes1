@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "OMEGA-TEST-0001": {
+      "active": true,
+      "devices": "ALL",
+      "expiry": 0,
+      "durationDays": 30,
+      "maxDevices": 1,
+      "features": "all"
+    }
+  }
+}
