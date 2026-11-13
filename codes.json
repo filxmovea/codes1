@@ -1,6 +1,10 @@
 {
   "keys": {
-    "filx_jump": [5000],
-    "new_key": [5000]
+    "filx_jump": [5000]
+  }
+}
+{
+  "keys": {
+    "new_key": [5000, 10000]
   }
 }
